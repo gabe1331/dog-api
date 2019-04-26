@@ -3,48 +3,48 @@
       "breed": "Australian Sheppard",
       "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03172411/Australian-Shepherd-Care1.jpg",
       "height": "20-23 in.",
-      "weight": "50-75lbs",
+      "weight": "50-75 lbs.",
       "lifespan": "13-15yrs",
-      "bread_for": "Herding"
+      "bred_for": "Herding"
     },
     {
       "breed": "Beagle",
       "image": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/beagle-detail.jpg?bust=1535565158&width=355",
-      "height": "13-16in.",
-      "weight": "22-24lbs",
-      "lifespan": "12-15 years",
-      "bread_for": "Hunting"
+      "height": "13-16 in.",
+      "weight": "22-24 lbs.",
+      "lifespan": "12-15 yrs.",
+      "bred_for": "Hunting"
     },
     {
       "breed": "Boxer",
       "image": "https://vetstreet-brightspot.s3.amazonaws.com/f6/9983d09e9011e0a2380050568d634f/file/boxer-2-645mk062411.jpg",
       "height": "21-24 in.",
-      "weight": "50-60 lbs",
-      "lifespan": "10-12 years",
-      "bread_for": "Hunting"
+      "weight": "50-60 lbs.",
+      "lifespan": "10-12 yrs.",
+      "bred_for": "Hunting"
     },
     {
       "breed": "Standard Poodle",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/1200px-Full_attention_%288067543690%29.jpg",
       "height": "18-24 in.",
-      "weight": "15-17 lbs",
-      "lifespan": "12 years",
-      "bread_for": "Duck hunting"
+      "weight": "15-17 lbs.",
+      "lifespan": "12 yrs.",
+      "bred_for": "Duck hunting"
     },
     {
       "breed": "Blue Heeler",
       "image": "https://thehappypuppysite.com/wp-content/uploads/2017/12/blue-heeler-names.jpg",
       "height": "18-20 in.",
-      "weight": "33-35 lbs",
-      "lifespan": "13-15 years",
-      "bread_for": "Herding"
+      "weight": "33-35 lbs.",
+      "lifespan": "13-15 yrs.",
+      "bred_for": "Herding"
     },
     {
       "breed": "Dachshund",
       "image": "https://cdn3-www.dogtime.com/assets/uploads/2011/01/file_23020_dachshund-dog-breed-460x290.jpg",
       "height": "5-6 in.",
-      "weight": "9-32 lbs",
-      "lifespan": "12-16 years",
-      "bread_for": "Hunting"
+      "weight": "9-32 lbs.",
+      "lifespan": "12-16 yrs.",
+      "bred_for": "Hunting"
     }
   ]
